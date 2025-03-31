@@ -142,6 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fa46eee203ab034cb4ddd89af59f9a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coheteSpeed: 0
 --- !u!212 &245061410
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -586,3 +587,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   botonGO: {fileID: 1196119442}
+  coheteScript: {fileID: 245061409}
